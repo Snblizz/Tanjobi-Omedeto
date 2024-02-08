@@ -1,0 +1,8 @@
+body {
+    background: rgb(182,17,17);
+    background: linear-gradient(90deg, rgba(182,17,17,0.7898809181875875) 0%, rgba(255,255,255,0.9019257361147583) 100%);
+}
+.main {
+    font-family: sans-serif;
+    text-align: center;
+}
